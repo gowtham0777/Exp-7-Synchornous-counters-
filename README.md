@@ -1,5 +1,5 @@
 NAME: GOWTHAM ADITYA R<br>
-REFENCE NUMBER:212223050018
+REFENCE NUMBER: 212223050018
 
 # Exp 6: Synchornous counters up counter and down counter 
 ## AIM: 
